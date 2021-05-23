@@ -1,5 +1,5 @@
 #This code will only work if you put it in the code folder for the tournament. 
-#If you want the code to work outside the code folder you need to remove the classic strats par in RunGeneration(), runRound()
+#If you want the code to work outside the code folder you need to remove the classic strats part in RunGeneration(), runRound()
 #Also, this code is pretty messy but works
 
 import numpy as np
